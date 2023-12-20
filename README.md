@@ -4,7 +4,7 @@ A simple web application built with React which allows users to manage notes, su
 
 ## Screenshots
 
-![Website Aplikasi Catatan Menggunakan React](https://github.com/AjiBegawan/Dicoding-Personal-Notes-App/blob/main/images/website%20views.png?raw=true)
+![Website Aplikasi Catatan Menggunakan React](https://github.com/AjiBegawan/Dicoding-Personal-Notes-App/blob/main/images/Personal%20Notes%20Project%20Screenshot.png?raw=true)
 
 ## Main Features
 
