@@ -1,54 +1,47 @@
+# Personal Notes App
 
-# Proyek Membangun Aplikasi Catatan Menggunakan React
-
-Aplikasi web sederhana menggunakan React yang dapat mengelola catatan seperti menambahkan, mengarsipkan, menghapus, dan mencari catatan. Proyek ini dibuat untuk kebutuhan submission **Dicoding** dalam kelas **Belajar Membuat Aplikasi Web dengan React**
-
+A simple web application built with React which allows users to manage notes, such as adding, archiving, deleting, and searching notes. This project was created as a requirement for the **Belajar Membuat Aplikasi Web dengan React** course on **Dicoding**.
 
 ## Screenshots
 
 ![Website Aplikasi Catatan Menggunakan React](https://github.com/AjiBegawan/Dicoding-Personal-Notes-App/blob/main/images/website%20views.png?raw=true)
 
-
 ## Main Features
 
-- Menambahkan catatan baru (Judul dan isi catatan)
-- Menghapus catatan yang ada
-- Mengarsipkan catatan
-- Menampilkan semua catatan dan catatan yang diarsipkan
+- Add new notes (title and note content)
+- Delete existing notes
+- Archive notes
+- Display all notes and archived notes
 
 ## Additional Features
-- Membatasi jumlah karakter pada judul sebanyak 50 karakter
-- Pencarian catatan berdasarkan judul
-## Tech Stack
 
-**Client:** React, Material UI
+- Limit the number of characters in the note title to 50
+- Search notes by title
 
-**Server:** Node
+## Technology Stack
 
+- Client: React and Material UI
+- Server: Node and Vite
 
 ## Run Locally
 
-Clone the project
+To get started with the application, clone the repository and install the dependencies:
 
 ```bash
   git clone https://github.com/AjiBegawan/Dicoding-Personal-Notes-App.git
-```
 
-Go to the project directory
-
-```bash
   cd Dicoding-Personal-Notes-App
-```
 
-Install dependencies
-
-```bash
   npm install 
 ```
 
-Start the server
+Then, start the application with the following command:
 
 ```bash
   npm run dev
 ```
 
+## Future Improvements
+- Note editing: Edit existing notes for updates or corrections.
+- Note sharing: Share notes with others for collaboration or information sharing.
+- Note categorization: Organize notes into categories for better accessibility.
